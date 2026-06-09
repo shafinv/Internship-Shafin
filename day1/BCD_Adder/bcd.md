@@ -235,25 +235,9 @@ BCD Representation:
 
 ---
 
-## 📷 RTL Schematic
-
-Add your RTL schematic screenshot here.
-
-```markdown
-![RTL Schematic](screenshots/rtl_schematic.png)
-```
-
----
-
 ## 📈 Simulation Waveform
+<img width="849" height="475" alt="bcd" src="https://github.com/user-attachments/assets/0b7721ad-7740-44f3-bc48-480c12177d79" />
 
-Add your waveform screenshot here.
-
-```markdown
-![Simulation Waveform](screenshots/waveform.png)
-```
-
----
 
 ## 🚀 How to Run
 
@@ -308,5 +292,4 @@ Government Engineering College Thrissur
 ## 📜 License
 
 This project is intended for educational and academic purposes.
-waveform:<img width="849" height="475" alt="bcd" src="https://github.com/user-attachments/assets/3d5fe3e6-6a38-4613-af88-e210ec1afe33" />
 
