@@ -214,15 +214,7 @@ Carry = 1
 
 ---
 
-## 📷 RTL Schematic
 
-Add your RTL schematic screenshot here.
-
-```markdown
-![RTL Schematic](screenshots/rtl_schematic.png)
-```
-
----
 
 ## 📈 Simulation Waveform
 <img width="847" height="472" alt="ripplecarry" src="https://github.com/user-attachments/assets/f58f921a-e7a4-4097-9f50-4a9fe9776d31" />
