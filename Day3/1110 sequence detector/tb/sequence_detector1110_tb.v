@@ -47,12 +47,12 @@ initial begin
     #10 din_tb = 1;
     #10 din_tb = 1;
     #10 din_tb = 1;
-    #10 din_tb = 0; // detect
+    #10 din_tb = 0; 
 
     #10 din_tb = 1;
     #10 din_tb = 1;
     #10 din_tb = 1;
-    #10 din_tb = 0; // detect again
+    #10 din_tb = 0;
 
     #20 $finish;
 end
