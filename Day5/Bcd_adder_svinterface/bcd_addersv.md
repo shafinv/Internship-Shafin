@@ -187,7 +187,7 @@ BCD-Adder-SystemVerilog/
 |   └── bcd_adder.sv
 │
 ├── testbench/
-│   └── bcd_tbifsv.sv
+│   └── bcd_tbsv.sv
 │
 └── README.md
 ```
