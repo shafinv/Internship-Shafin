@@ -507,7 +507,7 @@ The existing AXI DMA Controller provides a modular architecture consisting of se
 
 ---
 
-### End of Chapter 2
+
 
 
 # CHAPTER 3
